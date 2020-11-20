@@ -5,8 +5,8 @@ header-img: img/about-bg-walle.jpg
 email: kktiandao@126.com | kktiandao@gmail.com
 description: "stay hungry stay foolish"
 keyword: "C++, golang, 网络, Linux, 算法分析，设计模式"
-url: "https://kktiandao"              # your host, for absolute URL
-baseurl: "note"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://kktiandao.github.io/"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -16,7 +16,7 @@ RSS: false
 #weibo_username:    kktiandao 
 zhihu_username:    kktiandao 
 github_username:   kktiandao 
-csdn_username:  kktiandao 
+#csdn_username:  kktiandao 
 #twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
